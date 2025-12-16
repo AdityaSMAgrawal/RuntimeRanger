@@ -1,15 +1,14 @@
-👋 Hi, I’m Aditya
+Hi, I’m Aditya
 
-👀 I am intreasted in CUDA programming  
+I am intreasted in CUDA programming  
+
 ![CUDA](https://img.shields.io/badge/CUDA-NVIDIA-green?logo=nvidia&logoColor=white)
 
-🌱 I’m currently learning cpp
+I’m currently learning cpp
 
-📫 How to reach me: adityasmagrawal@gmail.com
+How to reach me: adityasmagrawal@gmail.com
 
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I use arch btw
+Fun fact: I use arch btw
 
 ---
 
