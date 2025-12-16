@@ -3,15 +3,13 @@
 👀 I am intreasted in CUDA programming  
 ![CUDA](https://img.shields.io/badge/CUDA-NVIDIA-green?logo=nvidia&logoColor=white)
 
-🌱 I’m currently learning full stack and CUDA 
+🌱 I’m currently learning cpp
 
 📫 How to reach me: adityasmagrawal@gmail.com
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I use nvim btw
-
----
+⚡ Fun fact: I use arch btw
 
 ---
 
